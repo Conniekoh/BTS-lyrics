@@ -32,10 +32,9 @@ In this notebook, I want to see which words were used the most in each BTS songs
 11. Comparing lyrics of two songs
 
 
+Data details: https://www.kaggle.com/kailic/bts-lyrics
 
-Data details: https://www.kaggle.com/starbucks/starbucks-menu
-
-:file_folder: [See my Kaggle Notebook](ㅇㅇㅇㅇ)
+:file_folder: [See codility] (https://github.com/Conniekoh/BTS-lyrics-comparison/tree/main/codility)
 ___
 ### Before Release
 - [x] Finish my changes
