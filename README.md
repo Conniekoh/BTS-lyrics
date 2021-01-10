@@ -1,4 +1,4 @@
-# BTS Lyrics Comparison
+# BTS Lyrics Comparison🎵
 ### Analysis on BTS lyrics using a machine learning method
 
 ![](https://static.billboard.com/files/2020/11/bts-press-photo-2020-billboard-1548-1604933999-compressed.jpg)
