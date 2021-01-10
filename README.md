@@ -12,7 +12,7 @@ I think most of you might have heard one of their latest and popular song, “Dy
 BTS songs and lyrics are catchy and that get stuck in my head!
 Whenever I listen to BTS songs, it get stuck in my head.
 
-Personally, I prefer listening to songs with positive vibe because it really effects my mood. I don't personally like listening to songs about bullying and mental health. BTS songs motivates me with relatable and inspirational words (i.e., "Love Yourself", "Life Goes On", etc.). See this reference [5 Reasons Why You Should Stan BTS) (https://thehoneypop.com/2019/12/16/5-reasons-to-stan-bts/)
+Personally, I prefer listening to songs with positive vibe because it really effects my mood. I don't personally like listening to songs about bullying and mental health. BTS songs motivates me with relatable and inspirational words (i.e., "Love Yourself", "Life Goes On", etc.). See this reference [5 Reasons Why You Should Stan BTS) (https://thehoneypop.com/2019/12/16/5-reasons-to-stan-bts/).
 
 In this notebook, I want to see which words were used the most in each BTS songs via word embedding, then visualize lyrics similarity using a machine learning method called t_SNE and an interactive visualizing library called Bokeh.
 
