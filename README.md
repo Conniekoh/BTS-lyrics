@@ -7,9 +7,7 @@
 ## Introduction
 BTS(Korean: 방탄소년단), AKA Bangtan Boys, is a seven-member South Korean boy band debuted in 2013 under Big Hit Entertainment.
 
-I think most of you have heard one of their latest and popular song “Dynamite” last year (2020) broke the records. This song's has the most viewed in a single day in Youtube history, most commented video on the platform, and second most commented video of all time.
-
-This song debuted by breaking several records - No.1 on the Billboard for total three weeks; No.1 on Spotify's daily Global Top 50 chart; No.1s on iTunes within 8 hours. This song even broke the record for the fastest viral music video by generating 101.1 million views within 24 hours, according to Statstia.
+I think most of you might have heard one of their latest and popular song, “Dynamite” last year (2020). This song debuted by breaking several records --most viewed in a single day in Youtube history, most commented video on the platform, and second most commented video of all time. Also, thi song hit No.1 on the Billboard for total three weeks; No.1 on Spotify's daily Global Top 50 chart; No.1s on iTunes within 8 hours. This song even broke the record for the fastest viral music video by generating 101.1 million views within 24 hours, according to Statstia.
 
 BTS songs and lyrics are catchy and that get stuck in my head!
 Whenever I listen to BTS songs, it get stuck in my head.
